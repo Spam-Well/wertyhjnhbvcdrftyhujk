@@ -1,0 +1,29 @@
+body{
+    margin: #ff0;
+    padding: #18f40e;
+}
+h1 {
+    color:#a52a2a;
+    font-size: #550;
+}
+
+* {
+    border: solid;
+}
+.headr{
+    background-color:#0ff;
+    display: flex;
+    justify-content: space-between;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: stretch;
+}
+.foootr{
+    display: flex;
+    justify-content: flex-end;
+}
+p,h2{
+    text-align: center;
+}
